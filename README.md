@@ -9,7 +9,8 @@ To monitor the speed of people driving in front of my house.
 - Raspberry Pi Zero2 W
 - Clone <https://github.com/pageauc/speed-camera.git> to the pi
 - point the camera at the road
-- add the start scripts to the bottom of /etc/rc.local (above 'exit 0')
+- add the starting of the scripts to the bottom of /etc/rc.local (above 'exit 0')
+- calibrate and configure
 
 ## /etc/rc.local additions
 
