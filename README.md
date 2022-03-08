@@ -6,14 +6,12 @@
 [![GitHub issues](https://img.shields.io/github/issues/jcksnvllxr80/speed-camera.svg)](lib-issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](lib-licence)
 
-
 ## Purpose
-
-:car:   :police_car:
 
 - monitor the speed of people driving in front of my house :truck:
 - take a picture of each car and label it with its speed :camera:
 - make a cool time-lapse video and put it on youtube :tv:
+- make cool graphs to analyze the data :bar_chart: :chart_with_downwards_trend:
 
 ## How
 
