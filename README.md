@@ -6,15 +6,14 @@
 [![GitHub issues](https://img.shields.io/github/issues/jcksnvllxr80/speed-camera.svg)](lib-issues)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](lib-licence)
 
-## Example Image
-
-![alt text](./img/example_image.jpg "Example")
 
 ## Purpose
 
-- monitor the speed of people driving in front of my house
-- take a piucture of each car and label it with its speed
-- make a cool timelapse video and put it on youtube
+:car:   :police_car:
+
+- monitor the speed of people driving in front of my house :truck:
+- take a picture of each car and label it with its speed :camera:
+- make a cool time-lapse video and put it on youtube :tv:
 
 ## How
 
@@ -31,3 +30,7 @@ cd /home/pi/speed-camera
 python3 ./webserver.py &
 python ./speed-cam.py &
 ```
+
+## Example Image
+
+![alt text](./img/example_image.jpg "Example")
