@@ -8,7 +8,7 @@
 
 ## Example Image
 
-![alt text](./img/example_image.png "Example")
+![alt text](./img/example_image.jpg "Example")
 
 ## Purpose
 
