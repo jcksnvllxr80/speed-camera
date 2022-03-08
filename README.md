@@ -2,7 +2,10 @@
 
 ## Purpose
 
-To monitor the speed of people driving in front of my house.
+To:
+- monitor the speed of people driving in front of my house
+- take a piucture of each car and label it with its speed
+- make a cool timelapse video and put it on youtube
 
 ## How
 
