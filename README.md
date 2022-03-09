@@ -10,7 +10,7 @@
 
 - monitor the speed of people driving in front of my house :truck:
 - take a picture of each car and label it with its speed :camera:
-- make a cool time-lapse video and put it on youtube :tv:
+- make a cool time-lapse video and put it on youtube :tv: <https://youtu.be/GM9vSAUtNBc>
 - make cool graphs to analyze the data :bar_chart: :chart_with_downwards_trend:
 
 ## How
